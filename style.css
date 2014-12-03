@@ -1,0 +1,29 @@
+body {
+  background: url(bg.png) no-repeat center center fixed; 
+  background-size: 100% 100%;
+}
+
+article {
+  float: right;
+  display: inline-block;
+  margin: 60px 150px;
+}
+
+a {
+  margin: 5px;
+  display: inline-block;
+  height: 61px;
+  width: 61px;
+}
+
+.fb {
+  background: url('fb_icon.png') no-repeat;
+}
+
+.insta {
+  background: url('vimeo_icon.png') no-repeat;
+}
+
+.vimeo {
+  background: url('insta_icon.png') no-repeat;
+}

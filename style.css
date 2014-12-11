@@ -1,12 +1,15 @@
 body {
-  background: url(bg.png) no-repeat center center fixed; 
-  background-size: 100% 100%;
+  margin: auto;
 }
 
 article {
-  float: right;
-  display: inline-block;
-  margin: 60px 150px;
+  margin: 2% 0 0 12%;
+}
+
+aside {
+  top: 60px;
+  left: 65%;
+  position: absolute;
 }
 
 a {
